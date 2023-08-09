@@ -1,0 +1,26 @@
+body
+{
+    background-color: aqua;
+    font-size: 200%;
+}
+a
+{
+text-decoration: none;
+font-family: 'Times New Roman', Times, serif;
+}
+p
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header
+{
+    display: flex;
+justify-content: center;
+}
+footer{
+    min-height: auto;
+    display: flex;
+    justify-content: center;
+    flex flex-direction: column ;
+    margin-top : auto;
+}
